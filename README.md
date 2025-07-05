@@ -108,16 +108,42 @@ Complete online store for robotics components with smart filtering
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhamv1111&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  
   <!-- Interactive Terminal Animation -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75" />
   
-  <!-- Hire Me Call to Action -->
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
-    <h3 style="color: white; margin: 0;">🚀 Ready to make an impact?</h3>
-    <p style="color: white; margin: 10px 0;">I'm actively seeking SDE opportunities where I can contribute to innovative projects and grow with amazing teams!</p>
-    <a href="mailto:svsv26551@gmail.com" style="background: #00d9ff; color: #000; padding: 10px 20px; border-radius: 25px; text-decoration: none; font-weight: bold;">📧 Let's Connect!</a>
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=shubhamv1111&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  
+  <!-- Hire Me Call to Action - Modern Design -->
+  <h2 align="center">💼 Open for SDE Opportunities</h2>
+  
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Ready+to+contribute+to+innovative+projects!;Looking+for+my+next+challenge!;Let's+build+something+amazing+together!" alt="Hiring Status" />
+  </div>
+  
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center">
+          <a href="mailto:svsv26551@gmail.com">
+            <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://www.linkedin.com/in/shubhamvxi/">
+            <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/shubhamv1111">
+            <img src="https://img.shields.io/badge/🚀_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
+  
+  <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=50&section=footer" />
   </div>
 </div>
- 
