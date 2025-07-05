@@ -91,7 +91,7 @@ Complete online store for robotics components with smart filtering
 
 ---
 
-## 🌐 Connect & Opportunities
+## 🌐 Connect with me
 
 <div align="center">
 
@@ -101,15 +101,17 @@ Complete online store for robotics components with smart filtering
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918081394281)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svsv26551@gmail.com)
 
+</div>
+
 
 
 <!-- Animated Line Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Animated Line" />
 
-
 <!-- Professional Call to Action -->
-<h3>💼 Open for SDE Opportunities</h3>
-<p><i>Ready to contribute to innovative projects and grow with amazing teams!</i></p>
+## 💼 Open for Opportunities
+<div align="center">
+<p><i>I’m actively looking for **Software Development Engineer** roles where I can contribute to innovative projects and grow with amazing teams!</i></p>
 
 <!-- Contact Action Buttons -->
 <!-- <a href="mailto:svsv26551@gmail.com">
@@ -118,12 +120,15 @@ Complete online store for robotics components with smart filtering
 <a href="https://www.linkedin.com/in/shubhamvxi/">
   <img src="https://img.shields.io/badge/💼_Hire_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a> -->
+</div>
 <!-- Animated Line Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Animated Line" />
 
 
+
 <br>
 
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=shubhamv1111&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 
