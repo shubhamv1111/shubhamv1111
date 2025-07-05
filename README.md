@@ -98,52 +98,37 @@ Complete online store for robotics components with smart filtering
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamvxi/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shubhamvxi)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shubhamvxi/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918081394281)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svsv26551@gmail.com)
 
-### 💼 **Open for SDE Roles**
-*Ready to contribute to innovative projects and grow with your team!*
 
-</div>
 
----
+<!-- Animated Line Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Animated Line" />
 
-<div align="center">
-  <!-- Interactive Terminal Animation -->
+
+<!-- Professional Call to Action -->
+<h3>💼 Open for SDE Opportunities</h3>
+<p><i>Ready to contribute to innovative projects and grow with amazing teams!</i></p>
+
+<!-- Contact Action Buttons -->
+<!-- <a href="mailto:svsv26551@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Let's_Connect-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+</a>
+<a href="https://www.linkedin.com/in/shubhamvxi/">
+  <img src="https://img.shields.io/badge/💼_Hire_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a> -->
+<!-- Animated Line Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Animated Line" />
+
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=shubhamv1111&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+
+
+<!-- Bottom Wave Animation -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75" />
-  
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=shubhamv1111&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  
-  <!-- Hire Me Call to Action - Modern Design -->
-  <h2 align="center">💼 Open for SDE Opportunities</h2>
-  
-  <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Ready+to+contribute+to+innovative+projects!;Looking+for+my+next+challenge!;Let's+build+something+amazing+together!" alt="Hiring Status" />
-  </div>
-  
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center">
-          <a href="mailto:svsv26551@gmail.com">
-            <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://www.linkedin.com/in/shubhamvxi/">
-            <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://github.com/shubhamv1111">
-            <img src="https://img.shields.io/badge/🚀_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-          </a>
-        </td>
-      </tr>
-    </table>
-  </div>
-  
-  <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=50&section=footer" />
-  </div>
+
 </div>
