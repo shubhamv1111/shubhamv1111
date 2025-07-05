@@ -110,5 +110,21 @@ Complete online store for robotics components with smart filtering
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shubhamv1111&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   
+    <img src="https://komarev.com/ghpvc/?username=shubhamv1111&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+->
+
+  <img src="https://komarev.com/ghpvc/?username=shubhamv1111&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  
+  <!-- Interactive Terminal Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75" />
+  
+  <!-- Hire Me Call to Action -->
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
+    <h3 style="color: white; margin: 0;">🚀 Ready to make an impact?</h3>
+    <p style="color: white; margin: 10px 0;">I'm actively seeking SDE opportunities where I can contribute to innovative projects and grow with amazing teams!</p>
+    <a href="mailto:svsv26551@gmail.com" style="background: #00d9ff; color: #000; padding: 10px 20px; border-radius: 25px; text-decoration: none; font-weight: bold;">📧 Let's Connect!</a>
+  </div>
 </div>
