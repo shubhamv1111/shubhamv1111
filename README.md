@@ -110,14 +110,6 @@ Complete online store for robotics components with smart filtering
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shubhamv1111&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   
-    <img src="https://komarev.com/ghpvc/?username=shubhamv1111&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-->
-
-  <img src="https://komarev.com/ghpvc/?username=shubhamv1111&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  
   <!-- Interactive Terminal Animation -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75" />
   
