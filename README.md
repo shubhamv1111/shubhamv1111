@@ -111,7 +111,7 @@ Complete online store for robotics components with smart filtering
 <!-- Professional Call to Action -->
 ## 💼 Open for Opportunities
 <div align="center">
-<p><i>I’m actively looking for <strong>Software Development Engineer</strong>roles where I can contribute to innovative projects and grow with amazing teams!</i></p>
+<p><i>I’m actively looking for <strong>Software Development Engineer</strong> roles where I can contribute to innovative projects and grow with amazing teams!</i></p>
 
 <!-- Contact Action Buttons -->
 <!-- <a href="mailto:svsv26551@gmail.com">
